@@ -1,0 +1,9 @@
+:root{
+    --black-background: black;
+  }
+
+
+h1{
+    color: blue;
+    font-size: 100px;
+}
